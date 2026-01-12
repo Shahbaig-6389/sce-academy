@@ -31,3 +31,7 @@
 | **DevOps**            | <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank"><img src="./assets/icons/azure-devops.svg" width="48" height="48" alt="Azure DevOps" /></a>                                    | <a href="https://github.com/" target="_blank"><img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" /></a>                                                                                          |
 | **Scripting**         | <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview" target="_blank"><img src="./assets/icons/powershell.svg" width="48" height="48" alt="PowerShell" /></a>                            | <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./assets/icons/bash.svg" width="48" height="48" alt="Bash" /></a>                                                                               |
 | **Office**            | <a href="https://www.microsoft.com/en-gb/microsoft-365/enterprise/microsoft365-plans-and-pricing" target="_blank"><img src="./assets/icons/office.svg" width="48" height="48" alt="Microsoft Office" /></a> |
+
+
+
+https://www.skills.google/profile/badges
