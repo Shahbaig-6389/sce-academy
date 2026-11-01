@@ -8,7 +8,7 @@
 - 🏅 Previously recognized **[🏅Badges🏅](https://www.credly.com/users/shah-baig.8694ecb6)**  **[Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/shahbaig-6389/transcript/dg89b6xzqwqkr2v?tab=tab-challenges&source=docs)** from 2008-2026
 - 💬 Ask me about **AI/ML**, **Cloud Computing**, **Cybersecurity**, **Microsoft 365**, **[Azure](https://azure.microsoft.com/en-gb/)**, **[OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)**, **[.NET](https://docs.microsoft.com/en-us/dotnet/)**, **[Python](https://www.python.org/)**, and **[TypeScript](https://www.typescriptlang.org/)**
 - 📇 Connect on **[LinkedIn](https://www.linkedin.com/in/shah-baig-scea/), and GitHub**
-- 📃 Get access to my **[recommended articles and samples](./docs/README.md)**
+- 📃 Get access to my **[recommended articles and samples](https://www.linkedin.com/in/shah-baig-scea/)**
 
 <br />
 
