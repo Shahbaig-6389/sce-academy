@@ -34,7 +34,12 @@
 | **Office**            | <a href="https://www.microsoft.com/en-gb/microsoft-365/enterprise/microsoft365-plans-and-pricing" target="_blank"><img src="./assets/icons/office.svg" width="48" height="48" alt="Microsoft Office" /></a> |
 
 
+# My Badges and Achievements
 
 **[Google Badges](https://www.skills.google/profile/badges?credential_type=skill_badge)**
+
+**[Microsoft Ptofile](https://learn.microsoft.com/en-us/users/ShahBaig-6389)**
+
+**[Credly Badges](https://www.credly.com/users/shah-baig.8694ecb6/badges/credly)**
 
 https://www.skills.google/profile/badges
