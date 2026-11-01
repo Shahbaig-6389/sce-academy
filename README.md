@@ -1,4 +1,5 @@
-<img src="./assets/PersonalBanner.png" alt="GitHub banner" />
+
+<img src="https://github.com/SCEA-Computer-Training-Academy/.github/blob/e1a0a52cff9764a8d3004ea0d4ec55c15a16bfa4/assests/images/001%20design.png" />
 
 <h2 align="center">Hello everyone 👋 I'm Shah Baig</h2>
 
