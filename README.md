@@ -35,4 +35,6 @@
 
 
 
+**[Google Badges](https://www.skills.google/profile/badges?credential_type=skill_badge)**
+
 https://www.skills.google/profile/badges
